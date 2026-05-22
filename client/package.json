@@ -27,6 +27,6 @@
     "@vitejs/plugin-react": "^4.1.0",
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.31",
-    "vite": "^8.0.14"
+    "vite": "^7.0.0"
   }
 }
